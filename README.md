@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saritchi, I am a recent Computer Science undergraduate from Simon Fraser University.
+- 👋 Hi, I’m @saritchi, I have recently graduated from Simon Fraser University with a BS. Computer Science.
 - 👀 I’m interested in Front End Design, and Web-based applications
 - 📫 You can reach me at s.ritchie1@hotmail.com
 - I am currently trying to get more well-versed in JavaScript. There is always room for improvment!
